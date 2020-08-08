@@ -1,5 +1,3 @@
-<img width="auto" src="https://avatars1.githubusercontent.com/u/62782620?s=460&u=128b052336adaffdaf874576d9391a41100ce982&v=4">
-
 # Thomas Farias
 
 ## Olá pessoal :v:
