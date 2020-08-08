@@ -10,4 +10,4 @@ Sou Front-end Developer
 <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, ReactJS, TypesScript, Java
 <br/> 💬  &nbsp; Sobre mim: Curto seriados, cinema, games, comida haha, passear em parques, sair com meus amigos
 <br/> :email: &nbsp; Entre em contato comigo:(https://www.linkedin.com/in/thomas_sf/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:thomasfarias19@gmail.com)
+(mailto:thomasfarias19@gmail.com)
