@@ -1,4 +1,4 @@
-# Thomas Farias
+# <ThomasFarias />
 
 ## Olá pessoal :v:
 Eu sou apaixona em programação, sempre estou procurando saber mais sobre as tecnologias para evoluir como profissional.
