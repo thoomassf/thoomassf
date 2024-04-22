@@ -8,32 +8,32 @@ Sou desenvolvedor Front-end e me tornando back também
 
 <div>
   <a href="https://github.com/thoomassf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thoomassf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoomassf&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="580em" src="https://github-readme-stats.vercel.app/api?username=thoomassf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoomassf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thomas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thomas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thomas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thomas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Thomas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thomas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
-  <img align="center" alt="Thomas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img align="center" alt="Thomas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Thomas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Thomas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg">
-  <img align="center" alt="Thomas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
-  <img align="center" alt="Thomas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="Thomas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-plain-wordmark.svg">
-  <img align="center" alt="Thomas-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="Thomas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Thomas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thomas-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Thomas-Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="Thomas-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Thomas-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Thomas-OAuth" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-plain.svg">
-  <img align="center" alt="Thomas-Swagger" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg">
+  <img align="center" alt="Thomas-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thomas-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thomas-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thomas-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Thomas-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Thomas-React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Thomas-Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="Thomas-Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Thomas-Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Thomas-Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg">
+  <img align="center" alt="Thomas-Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg">
+  <img align="center" alt="Thomas-Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Thomas-Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-plain-wordmark.svg">
+  <img align="center" alt="Thomas-Node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="Thomas-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Thomas-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thomas-VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Thomas-Postgresql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Thomas-Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Thomas-Linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Thomas-OAuth" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/oauth/oauth-plain.svg">
+  <img align="center" alt="Thomas-Swagger" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg">
 </div>
  
 ##
