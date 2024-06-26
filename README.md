@@ -21,7 +21,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,sass,figma,vitest,jest,cypress" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,java,cs,python,graphql,prisma,postgresql,mysql,mongo" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,python,graphql,prisma,postgresql,mysql,mongo" /><br>
   <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git,github,azure,aws,gcp,kubernetes,docker" />
 </div>
  
