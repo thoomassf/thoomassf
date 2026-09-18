@@ -9,7 +9,7 @@
   </p>
 <div/>
 
-<h2 align="center">Sou desenvolvedor Front-end se tornando full-stack</h2>
+<h2 align="center">Desenvolvedor FullStack</h2>
 
 <div align="center">
   <a href="https://github.com/thoomassf">
